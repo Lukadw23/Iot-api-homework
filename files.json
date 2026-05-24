@@ -1,0 +1,34 @@
+{
+  "device": "Security Camera",
+  "storageGB": 128,
+  "motionDetected": false,
+  "features": ["night vision", "alarm", "HD recording"]
+}
+
+{
+  "device": "Smart Thermostat",
+  "temperature": 24,
+  "isActive": true,
+  "modes": ["cool", "heat", "fan"]
+}
+
+{
+  "device": "Smart Watch",
+  "battery": 85,
+  "isConnected": true,
+  "sensors": ["heart rate", "steps", "sleep"]
+}
+
+{
+  "device": "Smart Car",
+  "speed": 90,
+  "engineOn": true,
+  "systems": ["GPS", "autopilot", "parking sensors"]
+}
+
+{
+  "device": "Smart Refrigerator",
+  "temperature": 3,
+  "doorOpen": false,
+  "items": ["milk", "juice", "eggs"]
+}
